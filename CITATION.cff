@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FanucBridge
+message: >-
+  This work is derived from and extends the original fanucpy
+  project by Agajan Torayev
+  (https://github.com/torayeff/fanucpy, last release v0.1.13
+  in 2022). Many thanks to the original author for the
+  foundational implementation.
+type: software
+authors:
+  - family-names: DAVID
+    given-names: Lucas Rino Yves
+    affiliation: Polytech Dijon
+    email: lucas@lucas-david-ry.com
+repository-code: 'https://github.com/LucasDaRY/FanucBridge'
+url: 'https://github.com/LucasDaRY/FanucBridge'
+abstract: >-
+  Drivers and Python & C++ libraries to interact and control
+  a FANUC robot over network.
+keywords:
+  - FANUC
+  - Library
+  - Network
+  - Python
+  - C++
+license: Apache-2.0
+version: 0.1.0
+date-released: '2026-03-14'
+
