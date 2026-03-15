@@ -7,7 +7,7 @@ message: >-
   This work is derived from and extends the original fanucpy
   project by Agajan Torayev
   (https://github.com/torayeff/fanucpy, last release v0.1.13
-  in 2022). Many thanks to the original author for the
+  in late-2023). Many thanks to the original author for the
   foundational implementation.
 type: software
 authors:
