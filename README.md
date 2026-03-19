@@ -1,5 +1,13 @@
 # fanucpy: Python package for FANUC industrial robots
 
+
+---
+
+This is only a copy of the fanucpy repo with some minor changes. Please refer to the fanucpy repo for now.
+The updated API will be shared publicly after major tests only, test/demo results will also be shared once ready.
+
+---
+
 ## Software contents
 The package consists of two parts: 
 1. Robot interface code written in Python programming language
